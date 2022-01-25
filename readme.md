@@ -1,5 +1,5 @@
 ## Boas vindas!
 
-Este repositório tem o objetivo de *incentivar* a **colaboração** entre pessoas. Ajudem no projeto. 
+Este repositório tem o objetivo de *incentivar* a **colaboração** entre pessoas. Ajudem no projeto inserindo novas opções de aprendizado. 
 
 Obrigado, Diego Nogare
